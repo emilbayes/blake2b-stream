@@ -1,6 +1,6 @@
 {
   "name": "blake2b-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Node Stream wrapper for Blake2b",
   "main": "index.js",
   "dependencies": {
